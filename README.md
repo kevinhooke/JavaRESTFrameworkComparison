@@ -16,3 +16,5 @@ Sample REST resource at /sample implemented using Jersey JAX-RS api.
 ## SpringBootREST
 Sample REST resource at /sample pacakged as a Spring Boot application,
 with the resource implemented using Jersey JAX-RS.
+
+## More examples in progress
