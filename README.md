@@ -1,5 +1,6 @@
 # JavaRESTFrameworkComparison
-Comparison of implementing REST resources and clients using several Java-based frameworks and libraries.
+Comparison of REST resource and client implementations using several
+Java-based frameworks and libraries.
 
 The root of this repo contains a number of folders, each containing a
 separate example using a different library/framework. Each of the
